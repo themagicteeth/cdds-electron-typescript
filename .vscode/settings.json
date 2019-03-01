@@ -1,0 +1,45 @@
+{
+  "files.associations": {
+    ".babelrc": "jsonc",
+    ".eslintrc": "jsonc",
+    ".prettierrc": "jsonc",
+    ".stylelintrc": "json",
+    ".eslintignore": "ignore"
+  },
+  "search.exclude": {
+    ".git": true,
+    ".eslintcache": true,
+    "app/dist": true,
+    "app/main.prod.js": true,
+    "app/main.prod.js.map": true,
+    "bower_components": true,
+    "dll": true,
+    "flow-typed": true,
+    "release": true,
+    "node_modules": true,
+    "npm-debug.log.*": true,
+    "test/**/__snapshots__": true,
+    "yarn.lock": true
+  },
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "vsintellicode.python.completionsEnabled": false,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "workbench.statusBar.feedback.visible": false,
+  "update.showReleaseNotes": false,
+  "workbench.enableExperiments": false,
+  "gulp.autoDetect": "off",
+  "jake.autoDetect": "off",
+  "grunt.autoDetect": "off",
+  "material-icon-theme.files.associations": {
+    "webpack.config.renderer.dev.babel.js": "webpack",
+    "webpack.config.renderer.dev.dll.babel.js": "webpack",
+    "webpack.config.main.prod.babel.js": "webpack",
+    "webpack.config.renderer.prod.babel.js": "webpack"
+  },
+  "extensions.showRecommendationsOnlyOnDemand": true,
+  "terminal.integrated.fontFamily": "'Operator Mono'",
+  "editor.fontFamily": "'Operator Mono'",
+  "editor.fontLigatures": true,
+  "editor.cursorWidth": 5
+}

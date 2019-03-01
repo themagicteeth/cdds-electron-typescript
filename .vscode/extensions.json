@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dzannotti.vscode-babel-coloring",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "coenraads.bracket-pair-colorizer",
+    "christian-kohler.npm-intellisense",
+    "visualstudioexptteam.vscodeintellicode",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig"
+  ]
+}
